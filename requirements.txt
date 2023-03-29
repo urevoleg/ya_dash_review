@@ -1,0 +1,10 @@
+# data
+pandas
+
+# web
+dash
+dash_core_components
+dash_html_components
+
+# viz
+plotly
