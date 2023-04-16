@@ -37,7 +37,7 @@ app.layout = html.Div([
                     }),
     dcc.Graph(id='graph-content-1'),
     html.Br(),
-    html.H3("Range Picker"),
+    html.H3("Datetimepicker"),
                 dash_datetimepicker.DashDatetimepicker(
                     id="input-range",
                     utc=False,
